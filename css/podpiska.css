@@ -1,0 +1,45 @@
+.body{
+    position: relative;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #000;
+    min-width: 320px;
+    overflow-x: hidden;
+    height: 700vh;
+}
+
+.header{
+    font-family: monospace;
+    text-align: center;
+    margin-bottom: -20px;
+}
+
+.header h2{
+    font-size: 50px;
+}
+
+.header h4{
+    margin-top: -30px;
+    font-weight: normal;
+}
+
+.squral{
+    margin-top: 40px;
+    display: inline-block;
+    margin-left: 70px;
+}
+
+.text{
+    color: #E9E7E8;
+    text-align: center;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+.text2{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: normal;
+}
+
